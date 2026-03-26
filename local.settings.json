@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "KEY",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "clinicreportstorage_STORAGE": "KEY",
+    "AI_ENDPOINT":  "KEY",
+    "AI_KEY": "KEY",
+    "DOC_INTEL_ENDPOINT": "KEY",
+    "DOC_INTEL_KEY":  "KEY",
+    "STORAGE_CONN_STR": "KEY",
+    "STORAGE_CONNECTION_STRING":  "KEY"
+  }
+}
